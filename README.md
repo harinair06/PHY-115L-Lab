@@ -3,7 +3,7 @@ This repository contains Python code I used throughout my PHY 115L labs.
 
 
 
-LAB 1: Data Analysis Bootcamp (9/4/26)
+Lab 1: Data Analysis Bootcamp (9/4/26)
  Calculate the mean and standard deviation of a set of measurements.
  Distinguish between statistical error and systematic error.
  Report measurement results in a correct manner.
